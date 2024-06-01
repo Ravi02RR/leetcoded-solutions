@@ -2,24 +2,25 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-
-        int i=0;
+        unordered_map<char,int>mp;
+        for(auto ele:s){
+            mp[ele]++;
+        }
         char ans;
-        while(i<s.length()){
-            if(s[i]!=t[i]){
+
+        for(int i=0;i<t.length();i++){
+            if(mp.find(t[i])!=mp.end()){
+                mp[t[i]]--;
+                if (mp[t[i]] == 0) {
+                    mp.erase(t[i]);
+                }
+
+            }
+            else {
                 ans=t[i];
                 break;
-            }
-            i++;
+            }  
         }
-        if (!ans){
-            ans=t[s.size()];
-
-        }   
-
         return ans;
-        
     }
 };

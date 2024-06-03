@@ -8,6 +8,7 @@
 # Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Depth-First Search
@@ -18,6 +19,7 @@
 # Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Linked List
@@ -38,6 +40,7 @@
 # Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Two Pointers
 |  |

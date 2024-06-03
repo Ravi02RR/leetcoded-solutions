@@ -31,6 +31,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0049-group-anagrams) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Breadth-First Search
 |  |
@@ -43,8 +44,17 @@
 # String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0049-group-anagrams) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0049-group-anagrams) |
+# Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0049-group-anagrams) |

@@ -36,3 +36,15 @@
 |  |
 | ------- |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+# Two Pointers
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# String
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |

@@ -64,12 +64,14 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 # Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 # Counting
 |  |
@@ -84,7 +86,16 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 # Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+# Binary Search
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+# Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |

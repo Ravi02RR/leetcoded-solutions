@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0409-longest-palindrome) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -64,6 +65,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 # Sorting
@@ -71,26 +73,31 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 # Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 # Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 # Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
 # Binary Search
 |  |
 | ------- |
@@ -99,3 +106,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+# Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |

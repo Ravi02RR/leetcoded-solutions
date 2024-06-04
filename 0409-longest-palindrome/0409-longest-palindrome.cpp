@@ -7,7 +7,7 @@ public:
         }
 
         int count = 0;
-        bool hasOdd = false;  // To check if there's any character with an odd count
+        bool hasOdd = false;  
 
         for(auto it = mp.begin(); it != mp.end(); it++) {
             if(it->second % 2 == 0) {

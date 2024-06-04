@@ -69,6 +69,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 # Sorting
 |  |
@@ -78,6 +79,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 # Counting
 |  |
@@ -90,6 +92,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1014-k-closest-points-to-origin) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -97,11 +100,13 @@
 | [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1014-k-closest-points-to-origin) |
 # Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1014-k-closest-points-to-origin) |
 # Binary Search
 |  |
 | ------- |
@@ -119,3 +124,11 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0658-find-k-closest-elements) |
+# Math
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1014-k-closest-points-to-origin) |
+# Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1014-k-closest-points-to-origin) |

@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0058-length-of-last-word) |
 | [0409-longest-palindrome](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0409-longest-palindrome) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |

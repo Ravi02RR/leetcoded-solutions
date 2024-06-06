@@ -10,17 +10,20 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Linked List
 |  |
@@ -43,6 +46,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Two Pointers
 |  |

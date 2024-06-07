@@ -79,6 +79,7 @@
 | [0658-find-k-closest-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1127-last-stone-weight) |
+| [1138-grumpy-bookstore-owner](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 # Sorting
 |  |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0658-find-k-closest-elements) |
+| [1138-grumpy-bookstore-owner](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1138-grumpy-bookstore-owner) |
 # Math
 |  |
 | ------- |

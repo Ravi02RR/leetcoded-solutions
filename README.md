@@ -42,6 +42,7 @@
 | [0049-group-anagrams](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -76,6 +77,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1127-last-stone-weight) |
@@ -148,3 +150,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+# Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0560-subarray-sum-equals-k) |

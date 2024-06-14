@@ -1,8 +1,12 @@
 class Solution {
+    typedef vector<int> v;
+    typedef map<int,int> map;
+
 public:
     vector<int> relativeSortArray(vector<int>& arr1, vector<int>& arr2) {
-       vector<int>ans;
-        map<int,int>mp;
+       std::ios_base::sync_with_stdio(false);
+       v ans;
+       map mp;
 
         for(auto ele : arr1){
             mp[ele]++;

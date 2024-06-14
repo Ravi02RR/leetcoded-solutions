@@ -151,6 +151,7 @@
 # Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0258-add-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1014-k-closest-points-to-origin) |
 # Geometry
 |  |
@@ -169,3 +170,11 @@
 | ------- |
 | [1137-height-checker](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1217-relative-sort-array) |
+# Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0258-add-digits) |
+# Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0258-add-digits) |

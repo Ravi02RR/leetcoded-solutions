@@ -85,6 +85,7 @@
 | [1127-last-stone-weight](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1138-grumpy-bookstore-owner) |
+| [1222-remove-covered-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1222-remove-covered-intervals) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 # Sorting
 |  |
@@ -97,6 +98,7 @@
 | [0658-find-k-closest-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1137-height-checker) |
+| [1222-remove-covered-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1222-remove-covered-intervals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 # Counting
 |  |

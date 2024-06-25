@@ -12,6 +12,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Depth-First Search
 |  |
@@ -19,6 +20,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Binary Tree
 |  |
@@ -27,6 +29,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 # Linked List
 |  |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Prefix Sum
 |  |
 | ------- |

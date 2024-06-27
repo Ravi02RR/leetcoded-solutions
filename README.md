@@ -4,6 +4,7 @@
 # Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 # Tree
 |  |
@@ -59,6 +60,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0075-sort-colors) |
 | [0658-find-k-closest-elements](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0658-find-k-closest-elements) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -78,6 +80,7 @@
 # Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -182,3 +185,11 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0258-add-digits) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0042-trapping-rain-water) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0042-trapping-rain-water) |

@@ -199,6 +199,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -207,4 +208,20 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->

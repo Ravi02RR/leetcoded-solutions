@@ -224,4 +224,8 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->

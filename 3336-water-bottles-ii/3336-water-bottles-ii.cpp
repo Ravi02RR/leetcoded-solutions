@@ -6,9 +6,8 @@ public:
         while(temp>=numExchange){
             ans+=1;
             temp-=numExchange;
-            temp++;
             numExchange++;
-
+            temp++;
 
         }
         return ans;

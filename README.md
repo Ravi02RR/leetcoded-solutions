@@ -265,4 +265,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->

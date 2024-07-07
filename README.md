@@ -265,9 +265,11 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0078-subsets) |
+| [0342-power-of-four](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0342-power-of-four) |
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0342-power-of-four) |
 | [1642-water-bottles](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3336-water-bottles-ii) |
 ## Simulation
@@ -275,4 +277,8 @@
 | ------- |
 | [1642-water-bottles](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3336-water-bottles-ii) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

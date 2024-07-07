@@ -212,6 +212,7 @@
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0078-subsets) |
 | [0303-range-sum-query-immutable](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -258,6 +259,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |

@@ -199,6 +199,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0031-next-permutation) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0917-boats-to-save-people](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0917-boats-to-save-people) |
 ## String
@@ -213,6 +214,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0078-subsets) |

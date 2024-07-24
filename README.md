@@ -212,6 +212,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0435-non-overlapping-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0435-non-overlapping-intervals) |
 ## Array
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [0078-subsets](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0078-subsets) |
 | [0303-range-sum-query-immutable](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -242,6 +244,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -255,6 +258,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0917-boats-to-save-people](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1829-maximum-units-on-a-truck) |

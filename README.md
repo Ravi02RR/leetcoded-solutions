@@ -220,6 +220,7 @@
 | [0046-permutations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0078-subsets) |
+| [0238-product-of-array-except-self](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0435-non-overlapping-intervals) |
@@ -273,6 +274,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Backtracking

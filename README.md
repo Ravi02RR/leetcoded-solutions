@@ -208,6 +208,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1720-crawler-log-folder](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1720-crawler-log-folder) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -279,6 +280,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Backtracking
 |  |
 | ------- |

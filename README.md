@@ -214,6 +214,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0435-non-overlapping-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0435-non-overlapping-intervals) |
+| [1503-reducing-dishes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1503-reducing-dishes) |
 ## Array
 |  |
 | ------- |
@@ -230,6 +231,7 @@
 | [0948-sort-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0948-sort-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1503-reducing-dishes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1720-crawler-log-folder](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1803-average-waiting-time) |
@@ -255,6 +257,7 @@
 | [0948-sort-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0948-sort-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1503-reducing-dishes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1503-reducing-dishes) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1829-maximum-units-on-a-truck) |
 ## Database
 |  |
@@ -269,6 +272,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0917-boats-to-save-people](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1503-reducing-dishes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1503-reducing-dishes) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1829-maximum-units-on-a-truck) |
 ## Design
 |  |

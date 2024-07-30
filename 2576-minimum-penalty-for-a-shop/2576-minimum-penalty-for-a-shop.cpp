@@ -3,8 +3,8 @@ public:
     int bestClosingTime(string customers) {
         int n = customers.length();
         
-        vector<int> pre(n+1); // No of N before kth hour
-        vector<int> suf(n+1); // No of Y after and including hours
+        vector<int> pre(n+1); 
+        vector<int> suf(n+1);
 
         for (int i = 0; i < n; i++) {
             pre[i+1] = pre[i] + ((customers[i] == 'N') ? 1 : 0);

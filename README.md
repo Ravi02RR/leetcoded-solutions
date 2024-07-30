@@ -237,6 +237,7 @@
 | [1803-average-waiting-time](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +247,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [1333-sort-the-jumbled-numbers](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1503-reducing-dishes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1503-reducing-dishes) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1829-maximum-units-on-a-truck) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Database
 |  |
 | ------- |
@@ -274,6 +277,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1503-reducing-dishes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1503-reducing-dishes) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1829-maximum-units-on-a-truck) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Design
 |  |
 | ------- |
@@ -284,6 +288,7 @@
 | [0238-product-of-array-except-self](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Backtracking
 |  |

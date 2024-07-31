@@ -1,7 +1,8 @@
 class Solution {
 public:
     string longestCommonPrefix(vector<string>& strs) {
-        ios_base::sync_with_stdio(false);
+        std::ios_base::sync_with_stdio(false);
+       
         sort(strs.begin(),strs.end());
 
         for(int i=0;i<strs.size();i++){

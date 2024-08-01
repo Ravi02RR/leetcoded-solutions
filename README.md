@@ -235,6 +235,7 @@
 | [0917-boats-to-save-people](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0948-sort-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1138-grumpy-bookstore-owner](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1138-grumpy-bookstore-owner) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1503-reducing-dishes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -370,4 +371,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1138-grumpy-bookstore-owner) |
 <!---LeetCode Topics End-->

@@ -215,6 +215,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0435-non-overlapping-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1013-fibonacci-number) |
 | [1503-reducing-dishes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1503-reducing-dishes) |
 ## Array
@@ -229,6 +230,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0747-min-cost-climbing-stairs](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0917-boats-to-save-people](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0948-sort-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |

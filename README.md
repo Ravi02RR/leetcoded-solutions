@@ -215,6 +215,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1013-fibonacci-number) |
@@ -224,6 +225,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0238-product-of-array-except-self) |
@@ -342,6 +344,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |

@@ -250,6 +250,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2722-prime-in-diagonal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -323,6 +324,7 @@
 | [1013-fibonacci-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2722-prime-in-diagonal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2722-prime-in-diagonal) |
 | [3336-water-bottles-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3336-water-bottles-ii) |
 ## Simulation
 |  |
@@ -384,4 +386,12 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1138-grumpy-bookstore-owner) |
+## Matrix
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2722-prime-in-diagonal) |
+## Number Theory
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->

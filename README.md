@@ -231,6 +231,7 @@
 | [0053-maximum-subarray](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0078-subsets) |
+| [0204-count-primes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -319,6 +320,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0507-perfect-number) |
@@ -396,6 +398,11 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0204-count-primes) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2722-prime-in-diagonal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2722-prime-in-diagonal) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

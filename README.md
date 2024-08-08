@@ -325,6 +325,7 @@
 | [1013-fibonacci-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2722-prime-in-diagonal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2722-prime-in-diagonal) |
 | [3336-water-bottles-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3336-water-bottles-ii) |
 ## Simulation
@@ -333,6 +334,7 @@
 | [1642-water-bottles](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3336-water-bottles-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3336-water-bottles-ii) |
 ## Recursion
 |  |
@@ -394,5 +396,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2722-prime-in-diagonal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->

@@ -345,6 +345,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1013-fibonacci-number) |
@@ -409,4 +410,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0204-count-primes) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

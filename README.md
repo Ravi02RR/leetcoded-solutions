@@ -221,6 +221,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0062-unique-paths) |
 | [0435-non-overlapping-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1013-fibonacci-number) |
@@ -326,6 +327,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0263-ugly-number) |
@@ -418,4 +420,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0206-reverse-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

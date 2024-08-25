@@ -259,6 +259,7 @@
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2722-prime-in-diagonal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2722-prime-in-diagonal) |
 | [2727-number-of-senior-citizens](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2727-number-of-senior-citizens) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,6 +343,7 @@
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2722-prime-in-diagonal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2722-prime-in-diagonal) |
 | [3336-water-bottles-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3336-water-bottles-ii) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |

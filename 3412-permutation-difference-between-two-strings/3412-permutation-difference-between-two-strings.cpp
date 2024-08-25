@@ -3,9 +3,9 @@ public:
     int findPermutationDifference(string s, string t) {
         int count = 0;
         for(int i=0;i<s.size();i++){
-            for(int j=0;j<t.size();j++){
-                if(s[i]==t[j])count+=abs(j-i);
-            }
+            size_t it=t.find(s[i]);
+            int dis=distance(t.begin(),t.begin()+it);
+            count+=abs(i-dis);
         }
 
 

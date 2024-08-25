@@ -1,21 +1,20 @@
 class Solution {
 public:
     vector<int> ans;
-    
-    int count(int i, string& boxes) {
-        int count = 0;
-        for (int j = 0; j < boxes.size(); j++) {
-            if (boxes[j] != '0' && j != i) {
-                count += abs(j - i);
-            }
-        }
-        return count;
-    }
-    
+
     vector<int> minOperations(string boxes) {
+        vector<int> temp;
         for (int i = 0; i < boxes.size(); i++) {
-            ans.push_back(count(i, boxes));
+            if (boxes[i] == '1') temp.push_back(i);
         }
-        return ans;   
+        for (int i = 0; i < boxes.size(); i++) {
+            int res = 0;
+            for (int j = 0; j < temp.size(); j++) {
+                res += abs(i - temp[j]);
+            }
+            ans.push_back(res);
+        }
+        
+        return ans;
     }
 };

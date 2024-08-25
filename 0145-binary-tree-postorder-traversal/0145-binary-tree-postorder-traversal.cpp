@@ -13,7 +13,7 @@ public:
             TreeNode* curr = st.top();
             st.pop();
 
-            ans.push_back(curr->val);
+            ans.insert(ans.begin(),curr->val);
 
             if (curr->left != nullptr) {
                 st.push(curr->left);
@@ -23,7 +23,7 @@ public:
                 st.push(curr->right);
             }
         }
-        reverse(ans.begin(),ans.end());
+        
 
         return ans;
     }

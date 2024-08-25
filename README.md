@@ -216,6 +216,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2727-number-of-senior-citizens](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2727-number-of-senior-citizens) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 | [0202-happy-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3412-permutation-difference-between-two-strings](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 ## Binary Search
 |  |
 | ------- |

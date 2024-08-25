@@ -213,6 +213,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1720-crawler-log-folder](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1720-crawler-log-folder) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2727-number-of-senior-citizens](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2727-number-of-senior-citizens) |
@@ -256,6 +257,7 @@
 | [1720-crawler-log-folder](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1803-average-waiting-time) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1829-maximum-units-on-a-truck) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |

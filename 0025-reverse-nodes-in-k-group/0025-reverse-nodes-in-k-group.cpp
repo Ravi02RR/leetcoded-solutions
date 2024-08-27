@@ -39,17 +39,18 @@ public:
     }
 
     ListNode* reverseKGroup(ListNode* head, int k) {
+        std::ios_base::sync_with_stdio(false);
         int len = length(head);
-        if (len < k) return head; // If there aren't enough nodes, no need to reverse
+        if (len < k) return head; 
         
         int count = len / k;
         ListNode* dummy = new ListNode();
         ListNode* curr = dummy;
-        ListNode* prevHead = head; // Track the original head of the group
+        ListNode* prevHead = head; 
 
         for (int i = 0; i < count; i++) {
-            ListNode* groupHead = findHead(prevHead, 0); // Group start
-            ListNode* tail = findTail(groupHead, k - 1);  // Group end
+            ListNode* groupHead = findHead(prevHead, 0); 
+            ListNode* tail = findTail(groupHead, k - 1);  
             
             ListNode* nextGroupHead = tail->next;  
             curr->next = reverse(groupHead, tail->next); 

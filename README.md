@@ -361,6 +361,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0342-power-of-four) |
@@ -431,6 +432,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0206-reverse-linked-list) |
 ## Combinatorics
 |  |

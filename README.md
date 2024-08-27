@@ -215,6 +215,7 @@
 | [1720-crawler-log-folder](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1720-crawler-log-folder) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2487-optimal-partition-of-string](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2487-optimal-partition-of-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2727-number-of-senior-citizens](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2727-number-of-senior-citizens) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -271,6 +272,7 @@
 | [0202-happy-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2487-optimal-partition-of-string](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2487-optimal-partition-of-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3412-permutation-difference-between-two-strings) |
 ## Binary Search
 |  |
@@ -309,6 +311,7 @@
 | [1503-reducing-dishes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1503-reducing-dishes) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2487-optimal-partition-of-string](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2487-optimal-partition-of-string) |
 ## Design
 |  |
 | ------- |

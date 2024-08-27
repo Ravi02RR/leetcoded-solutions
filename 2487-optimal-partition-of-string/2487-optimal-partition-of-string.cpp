@@ -1,6 +1,7 @@
 class Solution {
 public:
     int partitionString(string s) {
+        std::ios_base::sync_with_stdio(false);
         int count=0;
         unordered_set<char>st;
         for(int i=0;i<s.size();i++){

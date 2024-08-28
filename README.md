@@ -247,6 +247,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0883-car-fleet](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0948-sort-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -288,6 +289,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0883-car-fleet](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0948-sort-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -378,6 +380,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0883-car-fleet](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0883-car-fleet) |
 | [1720-crawler-log-folder](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1720-crawler-log-folder) |
 ## Divide and Conquer
 |  |
@@ -457,4 +460,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0319-bulb-switcher) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0883-car-fleet](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->

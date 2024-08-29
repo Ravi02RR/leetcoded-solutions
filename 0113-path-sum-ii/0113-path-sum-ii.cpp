@@ -12,6 +12,8 @@
 class Solution {
     private:
     void helper(TreeNode* root, int sum,vector<vector<int>>& ans,vector<int> v){
+        std::ios_base::sync_with_stdio(false);
+        cin.tie();
             if(root==nullptr) return;
             if(root->left==nullptr && root->right==nullptr){
                if(root->val==sum){
@@ -26,6 +28,8 @@ class Solution {
     }
 public:
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
+        std::ios_base::sync_with_stdio(false);
+        cin.tie();
         vector<vector<int>> ans;
         vector<int>v;
         helper(root,targetSum,ans,v);

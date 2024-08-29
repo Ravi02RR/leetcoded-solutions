@@ -7,7 +7,7 @@ int helper(vector<int>nums,int i,vector<int> &dp){
     return dp[i]= max(nums[i]+helper(nums,i+2,dp),0+helper(nums,i+1,dp));
 }
     int rob(vector<int>& nums) {
-        vector<int>dp(nums.size(),-1);
+        vector<int>dp(nums.size()+1,-1);
 
         return helper(nums,0,dp);
         

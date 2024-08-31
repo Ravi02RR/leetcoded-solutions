@@ -313,6 +313,7 @@
 | [1390-average-selling-price](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Greedy

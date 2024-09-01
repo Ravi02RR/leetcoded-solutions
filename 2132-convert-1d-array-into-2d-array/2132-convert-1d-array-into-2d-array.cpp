@@ -19,7 +19,9 @@ public:
     //     helper(original, m, n, idx + 1, temp); 
     // }
 
-    vector<vector<int>> construct2DArray(vector<int>& original, int m, int n) {
+    vector<vector<int>> construct2DArray(vector<int>& original, int m, int n) {         
+        ios_base::sync_with_stdio(false);
+        cin.tie(0); cout.tie(0);
         if (original.size() != m * n) return {};   
         // vector<int> temp;
         // helper(original, m, n, 0, temp);

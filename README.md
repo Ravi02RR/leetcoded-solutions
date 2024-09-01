@@ -267,6 +267,7 @@
 | [1829-maximum-units-on-a-truck](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1829-maximum-units-on-a-truck) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2722-prime-in-diagonal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2722-prime-in-diagonal) |
@@ -382,6 +383,7 @@
 | [1642-water-bottles](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3336-water-bottles-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3336-water-bottles-ii) |
 ## Recursion
@@ -445,6 +447,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0063-unique-paths-ii) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2722-prime-in-diagonal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |

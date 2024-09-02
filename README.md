@@ -212,6 +212,7 @@
 | [0014-longest-common-prefix](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1720-crawler-log-folder](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1720-crawler-log-folder) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |

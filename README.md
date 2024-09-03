@@ -216,6 +216,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1720-crawler-log-folder](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1720-crawler-log-folder) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2487-optimal-partition-of-string](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2487-optimal-partition-of-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -386,6 +387,7 @@
 | [1642-water-bottles](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [3336-water-bottles-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3336-water-bottles-ii) |

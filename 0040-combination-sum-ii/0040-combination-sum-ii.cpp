@@ -1,32 +1,31 @@
+#include <vector>
+#include <algorithm>
+
 class Solution {
-public:
-vector<vector<int>>ans;
-
-void helper(vector<int>& v,int target,int idx,int curr,vector<int>temp){
-
-    if(idx==v.size()){
-       if(curr==target){
-        sort(temp.begin(),temp.end());
-         ans.push_back(temp);
-       }
-        return;
+private:
+    void combinationSum2Helper(vector<vector<int>> &ans, vector<int> &v, vector<int>& candidates, int target, int idx) {
+        if (target == 0) {
+            ans.push_back(v);
+            return;
+        }
+        if (target < 0) return;
+        for (int i = idx; i < candidates.size(); i++) {
+            // Skip 
+            if (i > idx && candidates[i] == candidates[i - 1]) {
+                continue;
+            }
+            v.push_back(candidates[i]);
+            combinationSum2Helper(ans, v, candidates, target - candidates[i], i + 1);  
+            v.pop_back();
+        }
     }
 
-    temp.push_back(v[idx]);
-    helper(v,target,idx+1,curr+v[idx],temp);
-    temp.pop_back();
-    helper(v,target,idx+1,curr,temp);
-
-}
-
-
-vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-    vector<int>temp;
-    helper(candidates,target,0,0,temp);
-    sort(ans.begin(),ans.end());
-    ans.erase(unique(ans.begin(),ans.end()),ans.end());
-
-    return ans;
-        
+public:
+    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+        sort(candidates.begin(), candidates.end()); 
+        vector<vector<int>> ans;
+        vector<int> v;
+        combinationSum2Helper(ans, v, candidates, target, 0);
+        return ans;
     }
 };

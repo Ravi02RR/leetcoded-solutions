@@ -14,10 +14,10 @@ public:
                 mp.erase(arr2[i]);
             
         }
-        for (auto& [key, value] : mp) {
-            while (value > 0) {
-                ans.push_back(key);
-                value--;
+        for (auto ele : mp) {
+            while (ele.second > 0) {
+                ans.push_back(ele.first);
+                ele.second--;
             }
         }
 

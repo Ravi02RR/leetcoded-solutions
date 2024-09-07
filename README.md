@@ -258,6 +258,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0883-car-fleet](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0883-car-fleet) |
 | [0917-boats-to-save-people](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0917-boats-to-save-people) |
@@ -347,6 +348,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2576-minimum-penalty-for-a-shop) |

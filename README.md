@@ -486,6 +486,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0206-reverse-linked-list) |
+| [1484-linked-list-in-binary-tree](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -495,16 +496,19 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -517,4 +521,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->

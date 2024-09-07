@@ -265,6 +265,7 @@
 | [0948-sort-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0948-sort-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1138-grumpy-bookstore-owner](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1138-grumpy-bookstore-owner) |
+| [1217-relative-sort-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1217-relative-sort-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1503-reducing-dishes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1503-reducing-dishes) |
 | [1580-shuffle-the-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1580-shuffle-the-array) |
@@ -286,6 +287,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1217-relative-sort-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1217-relative-sort-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2487-optimal-partition-of-string](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2487-optimal-partition-of-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/3412-permutation-difference-between-two-strings) |
@@ -308,6 +310,7 @@
 | [0917-boats-to-save-people](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0948-sort-an-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1217-relative-sort-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1217-relative-sort-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1503-reducing-dishes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1503-reducing-dishes) |
 | [1829-maximum-units-on-a-truck](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1829-maximum-units-on-a-truck) |
@@ -447,6 +450,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1217-relative-sort-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Trie
 |  |

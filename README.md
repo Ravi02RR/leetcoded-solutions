@@ -201,6 +201,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -247,6 +248,7 @@
 | [0056-merge-intervals](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0078-subsets) |
+| [0189-rotate-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0238-product-of-array-except-self) |
@@ -369,6 +371,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0263-ugly-number) |

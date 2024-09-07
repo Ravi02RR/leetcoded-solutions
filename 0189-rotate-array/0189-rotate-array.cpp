@@ -1,6 +1,3 @@
-#include <vector>
-#include <algorithm>
-
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {

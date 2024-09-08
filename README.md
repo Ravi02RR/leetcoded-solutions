@@ -486,6 +486,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0206-reverse-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ravi02RR/leetcoded-solutions/tree/master/1484-linked-list-in-binary-tree) |
 ## Combinatorics
 |  |

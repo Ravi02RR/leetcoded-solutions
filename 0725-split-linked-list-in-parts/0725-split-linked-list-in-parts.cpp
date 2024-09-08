@@ -1,7 +1,6 @@
 class Solution {
 private:
     int getLen(ListNode* head) {
-        ios_base::sync_with_stdio(false);
         ListNode* temp = head;
         int size = 0;
         while (temp) {
@@ -12,9 +11,7 @@ private:
     }
 
 public:
-
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
-        ios_base::sync_with_stdio(false);
         int n = getLen(head);
         int size = n / k;
         int rem = n % k;
